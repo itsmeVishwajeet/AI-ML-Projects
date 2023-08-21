@@ -1,0 +1,192 @@
+clean_text,category
+The company's website is slow and difficult to navigate. It's frustrating to use.,-1
+I'm fed up with the constant spam calls I receive throughout the day.,-1
+"The concert was a letdown. The sound system was faulty, and the band seemed disinterested.",-1
+I'm disappointed with the poor quality of the food at the restaurant. It tasted stale.,-1
+The customer service was rude and unhelpful. They didn't resolve my issue.,-1
+I'm frustrated with the constant software crashes. It's extremely unreliable.,-1
+I'm frustrated with the constant software crashes. It's extremely unreliable.,-1
+"The movie was a complete disaster. The plot was confusing, and the acting was terrible.",-1
+"The product arrived damaged, and the seller hasn't responded to my complaint.",-1
+I'm disappointed with the poor quality of the food at the restaurant. It tasted stale.,-1
+The hotel room was dirty and had a musty smell. It was not up to standard.,-1
+The traffic during rush hour is unbearable. It adds unnecessary stress to my day.,-1
+I'm dissatisfied with the lack of updates and improvements in the new software version.,-1
+The customer support team was unresponsive and took days to address my issue.,-1
+The product broke within a week of purchase. The quality is extremely poor.,-1
+I'm frustrated with the long queues and slow service at the grocery store.,-1
+The flight was delayed for hours without proper explanation. It was highly inconvenient.,-1
+I'm irritated by the constant pop-up ads while browsing the internet.,-1
+The hotel staff was unhelpful and unfriendly. They made my stay unpleasant.,-1
+The restaurant messed up my order multiple times. The service was a disaster.,-1
+The internet connection keeps dropping. It's unreliable and disrupts my work.,-1
+I'm annoyed with the constant noise from the construction site near my apartment.,-1
+The company's return policy is complicated and makes it difficult to get a refund.,-1
+I'm disappointed with the lack of professionalism from the salesperson. They were dismissive.,-1
+The public transportation system is often delayed and overcrowded. It's a nightmare to commute.,-1
+I'm frustrated with the constant billing errors from my service provider. It's a hassle to sort out.,-1
+"The hotel reservation was mishandled, and they didn't have a room available as promised.",-1
+I'm dissatisfied with the poor quality of the clothing. It started falling apart after one wash.,-1
+The restaurant had a cockroach infestation. It's a health hazard and unacceptable.,-1
+I'm irritated by the constant glitches and freezes in the mobile app. It's unusable at times.,-1
+The company's website is slow and difficult to navigate. It's frustrating to use.,-1
+I'm fed up with the constant spam calls I receive throughout the day.,-1
+"The concert was a letdown. The sound system was faulty, and the band seemed disinterested.",-1
+I'm disappointed with the poor quality of the food at the restaurant. It tasted stale.,-1
+he is not good boy,-1
+he is not good ,-1
+bomb,-1
+not great,-1
+Terrible,-1
+Awful,-1
+Horrible,-1
+Disappointing,-1
+Frustrating,-1
+Annoying,-1
+Bad,-1
+Unpleasant,-1
+Rude,-1
+Poor,-1
+Slow,-1
+Difficult,-1
+Messy,-1
+Unreliable,-1
+Irritating,-1
+Disgusting,-1
+Unhelpful,-1
+Inconvenient,-1
+Faulty,-1
+Dreadful,-1
+Waste,-1
+Damaged,
+,0
+The weather today is mild and partly cloudy.,0
+I received a package in the mail today.,0
+I went for a walk in the park this morning.,0
+The book I'm reading is a classic.,0
+I had a conversation with a colleague about a project.,0
+I bought groceries from the local supermarket.,0
+The meeting at work lasted for two hours.,0
+I listened to music while commuting to work.,0
+I watched a documentary on a historical event.,0
+I received an email from a friend.,0
+I attended a fitness class at the gym.,0
+I cooked dinner for my family.,0
+I had a phone call with a relative.,0
+I visited a museum during the weekend.,0
+I watered the plants in my garden.,0
+I completed a puzzle in my free time.,0
+I went to the dentist for a check-up.,0
+I took a break and went for a coffee.,0
+I organized my workspace at home.,0
+I took a nap after a busy day.,0
+I went grocery shopping and bought fresh produce.,0
+I took my dog for a walk in the park.,0
+I had lunch with a colleague at a nearby cafe.,0
+I watched a movie at home with my family.,0
+I read a newspaper article about current events.,0
+I went for a run in the morning to stay fit.,0
+I attended a team meeting at work.,0
+I listened to a podcast while commuting.,0
+I spent the evening relaxing and watching TV.,0
+I met a friend for a cup of coffee and a chat.,0
+I completed a task on my to-do list.,0
+I went to the library to borrow some books.,0
+I had a video call with a relative who lives far away.,0
+I practiced playing the guitar for an hour.,0
+I cleaned and organized my closet.,0
+I went to the bank to deposit a check.,0
+I had a picnic in the park with friends.,0
+I visited a local art gallery and admired the exhibits.,0
+I wrote in my journal before going to bed.,0
+I had a quick workout session at home.,0
+I volunteered at a community event.,0
+I spent the day exploring a new neighborhood.,0
+I went to a coffee shop and worked on my laptop.,0
+I had dinner at a new restaurant in town.,0
+I attended a virtual webinar on a topic of interest.,0
+I visited a farmer's market and bought fresh fruits.,0
+I spent time gardening and tending to my plants.,0
+I went for a bike ride in the countryside.,0
+I listened to my favorite playlist while doing household chores.,0
+I went to a local sports event and cheered for the teams.,
+,
+I enjoyed a delicious meal at my favorite restaurant.,1
+"I received a promotion at work, and I'm thrilled about it.",1
+I had a great time at the beach with my friends.,1
+I received a heartfelt thank-you note from a colleague.,1
+I completed a challenging project and felt a sense of accomplishment.,1
+I spent quality time with my family during the weekend.,1
+I received a surprise gift from a loved one.,1
+I watched a beautiful sunset and felt at peace.,1
+I achieved a personal goal that I had been working towards.,1
+I had a productive and successful day at work.,1
+I received positive feedback on a presentation I gave.,1
+I went for a hike and enjoyed the stunning views.,1
+I received an unexpected compliment that made my day.,1
+I had a fun and memorable vacation with my friends.,1
+I received good news about a job opportunity.,1
+I spent the day exploring a new city and discovering hidden gems.,1
+I received a promotion at my favorite hobby.,1
+I spent a relaxing day pampering myself with a spa treatment.,1
+I received a warm and genuine hug from a loved one.,1
+I learned a new skill that I had been wanting to master.,1
+I had a heartwarming conversation with an old friend.,1
+I received a surprise visit from a family member I hadn't seen in a while.,1
+I attended a concert of my favorite band and had an amazing time.,1
+I received recognition for my hard work from my supervisor.,1
+I won a competition and felt incredibly proud of my achievement.,1
+"I spent a joyful day at an amusement park, going on thrilling rides.",1
+I received a handwritten letter expressing appreciation and love.,1
+I had a delicious homemade meal cooked by a loved one.,1
+"I spent a beautiful day in nature, enjoying the fresh air and scenery.",1
+I received a scholarship or grant for my studies.,1
+I had a heartwarming reunion with a long-lost friend or relative.,1
+I received positive feedback on a creative project I worked on.,1
+I had a great workout session that left me feeling energized.,1
+I received a surprise party to celebrate a milestone in my life.,1
+I had an engaging and inspiring conversation with a mentor.,1
+I spent the day exploring a museum and immersing myself in art and culture.,1
+I received a compliment on my appearance that boosted my confidence.,1
+"I enjoyed a relaxing day at a spa, receiving rejuvenating treatments.",1
+I received a surprise gift that perfectly matched my interests.,1
+I spent quality time with my pet and felt a deep connection with them.,1
+"I received a pay raise or bonus at work, recognizing my efforts.",1
+I spent the day volunteering for a cause I'm passionate about.,1
+I received positive feedback on a blog post or article I wrote.,1
+I had a heartwarming encounter with a stranger who showed kindness.,1
+I received a scholarship or grant for my creative endeavors.,1
+I spent the day exploring a new hobby and discovering a new passion.,1
+I received a surprise visit or call from a dear friend or family member.,1
+"I had a delightful shopping experience, finding everything I needed.",1
+I received a heartfelt message of appreciation from someone I helped.,1
+"I spent a joyful day at a theme park, enjoying the rides and attractions.",1
+"I received a surprise package in the mail, containing something I had wanted for a long time.",1
+I had a successful job interview and received an offer for my dream job.,1
+"I spent quality time with my loved ones, creating beautiful memories.",1
+I received a compliment on my work from a respected colleague or mentor.,1
+I had a wonderful and inspiring conversation with a stranger I met.,1
+I received a surprise reward or recognition for my efforts at work.,1
+"I spent a day at a retreat or workshop, learning and growing personally.",1
+I received a surprise invitation to an event or gathering that I was excited about.,1
+I had a successful performance or presentation that received a standing ovation.,1
+"I spent a day pampering myself with self-care activities, feeling refreshed and rejuvenated.",1
+??  ,1
+??,1
+??,1
+??,1
+??,1
+??,1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,-1
+??,0
